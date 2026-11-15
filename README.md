@@ -134,6 +134,10 @@ Weekly launches inside Peerlist, a professional network popular with developers 
 A launch platform aimed at small and indie products.
 **Best for:** side projects and small SaaS tools.
 
+### [Awesome Indie](https://awesomeindie.com)
+A daily launch platform for indie makers and solo founders: new products are featured every day and ranked by community upvotes, with weekly, monthly and yearly leaderboards. Launching is free, with optional paid upgrades, and product pages link back to your site with a dofollow link.
+**Best for:** indie makers and small teams who want a daily launch and a lasting spot on the leaderboards.
+
 ---
 
 ## 🧪 Pre-launch and beta
