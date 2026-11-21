@@ -242,6 +242,10 @@ Software discovery and alternatives, useful for long-term visibility.
 The big B2B review sites. A free profile plus a handful of real customer reviews builds trust with buyers.
 **Best for:** B2B SaaS with paying customers.
 
+### [Toolradar](https://toolradar.com)
+Software and AI tool directory with prices checked on vendor pages. Listing is free; each submission is checked before it goes live.
+**Best for:** software and AI products that want a listing buyers can compare.
+
 ---
 
 ## How to choose where to launch
