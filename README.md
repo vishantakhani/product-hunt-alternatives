@@ -198,6 +198,10 @@ A large, human-reviewed directory of SaaS products and tools. The free listing k
 Showcase side projects, and even sell the ones you no longer want to run.
 **Best for:** side projects looking for users or a buyer.
 
+### [Launch Llama](https://tools.launchllama.co)
+A directory of AI tools and startups where free listings stay up for good after review, and some are picked for its newsletters, which reach 69,000+ subscribers. A paid Featured listing skips the queue and goes live the same day.
+**Best for:** AI tools and SaaS products that want a lasting listing and a chance at newsletter exposure.
+
 ---
 
 ## 🤖 AI tools directories
