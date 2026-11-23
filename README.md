@@ -61,6 +61,7 @@ This list is curated by hand. Every entry says **what kind of platform it is, ho
 | [Fazier](https://fazier.com) | Launch platform | Launch pages + rankings | ✅ | — |
 | [MicroLaunch](https://microlaunch.net) | Launch platform | Longer launch window | ✅ | — |
 | [Peerlist Launchpad](https://peerlist.io/launchpad) | Launch platform | Weekly | ✅ | — |
+| [PeerPush](https://peerpush.com) | Launch platform | Daily launches, permanent listing | ✅ Queue (or pay to skip it) | — |
 | [BetaList](https://betalist.com) | Pre-launch | Featured startups | ✅ Reviewed | — |
 | [DevHunt](https://devhunt.org) | Developer tools | Weekly | ✅ | — |
 | [Hacker News, Show HN](https://news.ycombinator.com/show) | Community | Post | ✅ | — |
@@ -133,6 +134,10 @@ Weekly launches inside Peerlist, a professional network popular with developers 
 ### [TinyLaunch](https://www.tinylaunch.com)
 A launch platform aimed at small and indie products.
 **Best for:** side projects and small SaaS tools.
+
+### [PeerPush](https://peerpush.com)
+Daily launches with leaderboards, and each product keeps a permanent, structured listing (pricing, platforms, use cases, alternatives) that AI assistants can read through an API and MCP server.
+**Best for:** makers who want a listing that keeps working after launch day.
 
 ---
 
