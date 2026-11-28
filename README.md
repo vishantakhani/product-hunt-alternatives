@@ -198,6 +198,10 @@ A large, human-reviewed directory of SaaS products and tools. The free listing k
 Showcase side projects, and even sell the ones you no longer want to run.
 **Best for:** side projects looking for users or a buyer.
 
+### [MEDIAPRONET](https://mediapronet.com)
+A curated directory of new startups, SaaS tools and indie products, with a page for each listing. The free listing needs its badge on your homepage, waits at least 7 days and gets a nofollow link; paid plans are one-time from $19, publish immediately and need no badge ([pricing](https://mediapronet.com/pricing)).
+**Best for:** founders who want a lasting profile for a newly launched product.
+
 ---
 
 ## 🤖 AI tools directories
